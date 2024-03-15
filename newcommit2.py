@@ -1,1 +1,0 @@
-print("Testing the new commit using python script")
